@@ -65,17 +65,19 @@ Parag:
 	Contributed on all the tasks
 
 	Checked in initial version of Jupiter note book phase 3 deliverable.
-	Corrected error rate function and updated report statement
+	
+	Corrected and checked in error rate function and updated report statement
 	
 	Prepared read me file
 
 Shanmukh: 
 
-	checked in error rate function
+	Checked in error rate function
 
 	Contributed on all the tasks
 	
 Hao:
+
 	Contributed on all tasks
 	
 	Checked in initial version of report statement
